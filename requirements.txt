@@ -12,3 +12,4 @@ gradio
 chromadb
 weaviate-client
 opensearch-py
+tiktoken
