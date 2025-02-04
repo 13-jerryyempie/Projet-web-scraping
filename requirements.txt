@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+scrapy
+playwright
+openai
+faiss-cpu
+flask
+fastapi
+uvicorn
+streamlit
+gradio
+chromadb
+weaviate-client
+opensearch-py
