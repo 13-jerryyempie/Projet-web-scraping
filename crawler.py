@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from text_utils import clean_text  # Import de la fonction de nettoyage
+from text_utils import clean_text 
 
 def scrape_article(url):
     response = requests.get(url)
